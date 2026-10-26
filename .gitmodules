@@ -1,0 +1,3 @@
+[submodule "open_echo"]
+	path = open_echo
+	url = https://github.com/nmathira/open_echo
